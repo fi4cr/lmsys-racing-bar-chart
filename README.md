@@ -67,7 +67,7 @@ An interactive visualization of language model performance evolution using data 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fiacre/lmsys-racing-bar-chart.git
+   git clone git@github.com:fi4cr/lmsys-racing-bar-chart.git
    cd lmsys-racing-bar-chart
    ```
 
